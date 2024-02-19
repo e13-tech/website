@@ -1,0 +1,23 @@
+---
+title: Imprint/Legal Notice
+layout: imprint
+---
+
+## Information pursuant to sect. 5 German Telemedia Act (TMG)
+
+E13 Capital & Technology GmbH\
+Erikaweg 13b\
+21149 Hamburg\
+Germany
+
+Phone: +49 40 2286 3369 \
+Email: inquiry@e13.dev
+
+Managing Director: Max Jonas Werner\
+Court of Registration: Amtsgericht Hamburg\
+Registration Number: HRB  185873 \
+VAT IT: tbd
+
+## Copyright Notices
+
+Cover photo [Lukas Menzel](https://unsplash.com/@lukasmenzel) on [Unsplash](https://unsplash.com/photos/brown-and-white-concrete-building-near-body-of-water-during-daytime-89njKY00LZ8)
