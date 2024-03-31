@@ -30,6 +30,7 @@ minify:
       keepWhitespace: false
 
 params:
+  projectRepo: https://github.com/e13-dev/website
   analytics:
     google:
       SiteVerificationTag: # Google Site Verification
