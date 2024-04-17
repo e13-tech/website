@@ -26,4 +26,4 @@ jobs:
         with:
           push: true
           platforms: linux/amd64,linux/arm64
-          tags: ghcr.io/e13-dev/website:${{ github.ref_name }}
+          tags: ghcr.io/e13-tech/website:${{ github.ref_name }}
