@@ -16,7 +16,7 @@ Email: inquiry@e13.dev
 Managing Director: Max Jonas Werner\
 Court of Registration: Amtsgericht Hamburg\
 Registration Number: HRB  185873 \
-VAT IT: DE367172289
+VAT ID: DE367172289
 
 ## Copyright Notices
 
