@@ -7,6 +7,9 @@ DefaultContentLanguage: "en"
 googleAnalytics: ""
 enableRobotsTXT: true
 
+taxonomies:
+  authors: "authors"
+
 paginate: "9"
 buildDrafts: false
 buildFuture: false
@@ -52,9 +55,10 @@ params:
     iconWidth: "40"
   comments: true
   mainSections:
-  ShowShareButtons: true
+  - blog
+  ShowShareButtons: false
   ShowCodeCopyButtons: true
-  ShowRelated: true
+  ShowRelated: false
   CookieNotice: We use cookies to improve your experience on our site and to show
     you relevant advertising.
   CookieLink: /legal/privacy/#cookies-and-web-beacons
@@ -68,7 +72,7 @@ params:
     favicon32x32: /images/e13_path.svg
     apple_touch_icon: /images/e13_path.svg
     safari_pinned_tab: /images/e13_path.svg
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowBreadCrumbs: true
   homepage:
     # Hero Section
@@ -136,6 +140,9 @@ params:
     - link: plugins/js/feather.min.js
 menus:
   main: # Main Menu
+  - name: Blog
+    title: Blog
+    url: /blog
   - name: Company
     title: Company
     url: /company
