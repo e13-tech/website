@@ -33,6 +33,7 @@ minify:
       keepWhitespace: false
 
 params:
+  ShowFullTextinRSS: true
   projectRepo: https://github.com/e13-dev/website
   analytics:
     google:
@@ -46,7 +47,7 @@ params:
   description: Your website description
   math: false
   images:
-  - "/uploads/og.webp"
+  - "/images/e13.png"
   label:
     title:
     lightNavIcon: /images/e13_path.svg
