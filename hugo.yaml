@@ -149,3 +149,6 @@ menus:
   - name: Contact
     title: Contact
     url: "/contact"
+  - name: Subscribe to Blog
+    url: "/blog/index.xml"
+    pre: "rss"
