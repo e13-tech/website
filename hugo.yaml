@@ -144,12 +144,16 @@ menus:
   - name: Blog
     title: Blog
     url: /blog
-  - name: Company
-    title: Company
-    url: /company
+    weight: 20
+  - name: Who We Are
+    title: Who We Are
+    url: /about-us
+    weight: 10
   - name: Contact
     title: Contact
     url: "/contact"
+    weight: 30
   - name: Subscribe to Blog
     url: "/blog/index.xml"
     pre: "rss"
+    weight: 40

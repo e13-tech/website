@@ -1,5 +1,7 @@
 ---
-title: Company
+title: Who We Are
+aliases:
+  - /company
 layout: company
 members:
 - name: Max
@@ -7,4 +9,6 @@ members:
   about: Max is an IT professional and software engineer with more than 20 years of experience across the software industry. He has designed and implemented complex software products for German and American startups and enterprises and has worked as a maintainer in various open source projects.
   photo: /images/Max.jpeg
   linkedin: https://www.linkedin.com/in/makkes/
+  posts_slug: max-jonas-werner
+  github: makkes
 ---
