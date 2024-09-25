@@ -10,7 +10,7 @@ Erikaweg 13b\
 21149 Hamburg\
 Germany
 
-Phone: +49 40 2286 3369 \
+Phone: +49 40 7968 7272 \
 Email: inquiry@e13.dev
 
 Managing Director: Max Jonas Werner\
