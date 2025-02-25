@@ -2,7 +2,7 @@
 draft: true
 title: "Managing Thousands of Clusters and Their Workloads with Flux"
 date: "tbd"
-authors: 
+people: 
 - Max Jonas Werner
 cover:
   image: "tbd"

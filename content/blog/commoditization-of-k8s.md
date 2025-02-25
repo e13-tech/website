@@ -1,7 +1,7 @@
 ---
 title: "The commoditization of Kubernetes"
 date: "2023-06-23"
-authors: 
+people: 
 - Max Jonas Werner
 cover:
   image: "/images/outlet.jpg"

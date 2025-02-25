@@ -1,7 +1,7 @@
 ---
 title: "Software Is Still Eating the World"
 date: "2024-11-14"
-authors: 
+people: 
 - Max Jonas Werner
 cover:
   image: "/images/michael-schaffler-fUsXlZSnIwY-unsplash.jpg"

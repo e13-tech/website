@@ -1,7 +1,7 @@
 ---
 title: "Hosting Mastodon identities at your own domain"
 date: "2022-11-16"
-authors: 
+people: 
 - Max Jonas Werner
 cover:
   image: "/images/fork.jpg"

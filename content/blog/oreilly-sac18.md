@@ -3,7 +3,7 @@ title: "O'Reilly Software Architecture Conference: My ping from London"
 description: "I attented the conference this October in London and I'm sharing my two cents here."
 date: "2018-11-04"
 categories: [personal]
-authors: 
+people: 
 - Max Jonas Werner
 cover:
   image: "/images/british-museum.jpg"

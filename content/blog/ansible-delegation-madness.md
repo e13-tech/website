@@ -2,7 +2,7 @@
 title: "Ansible delegation madness: delegate_to and variable substitution"
 description: "Today I spent several hours tracking down a bug in one of our playbooks where a variable would be substituted with the wrong value if the task was delegated."
 date: "2019-07-19"
-authors: 
+people: 
 - Max Jonas Werner
 categories: [personal]
 cover:

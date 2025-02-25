@@ -1,7 +1,7 @@
 ---
 title: "\"My Pod doesn't see the clients' IP addresses\": Kubernetes External Traffic Policy Caveats"
 date: "2024-08-21"
-authors: 
+people: 
 - Max Jonas Werner
 cover:
   image: "/images/denys-nevozhai-7nrsVjvALnA-unsplash.jpg"

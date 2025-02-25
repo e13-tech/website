@@ -1,7 +1,7 @@
 ---
 title: "Kubernetes is your Operations Development Kit"
 date: "2024-05-10"
-authors: 
+people: 
 - Max Jonas Werner
 cover:
   image: "/images/simon-kadula-8gr6bObQLOI-unsplash.jpg"

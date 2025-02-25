@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+{{ partial "hero.html" . }}
+
+<div class="container team">
+    <div class="{{ if lt (.Site.Taxonomies.people | len) 2}}{{ else }}grid {{ if eq (.Site.Taxonomies.people | len) 2 }}grid-2{{ end }}{{ end }}">
+
+    {{ range .Site.Taxonomies.people }}
+        <div class="member text-center">
+            <a href="{{ .Page.Permalink }}">
+            <img src="{{.Page.Params.Photo | absURL }}" layout="responsive"></img>
+            <div style="font-weight:bold;">{{.Page.Params.Name}}</div>
+            <div>{{.Page.Params.Role}}</div>
+            </a>
+        </div>
+    {{ end }}
+
+    </div>
+</div>
+
+{{ end }}

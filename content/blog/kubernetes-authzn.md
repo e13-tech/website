@@ -1,7 +1,7 @@
 ---
 title: "Kubernetes Authentication - What Actually Is a User?"
 date: "2023-09-01"
-authors: 
+people: 
 - Max Jonas Werner
 draft: true
 ---

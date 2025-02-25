@@ -8,7 +8,7 @@ googleAnalytics: ""
 enableRobotsTXT: true
 
 taxonomies:
-  authors: "authors"
+  person: "people"
 
 paginate: "9"
 buildDrafts: false
@@ -145,9 +145,9 @@ menus:
     title: Blog
     url: /blog
     weight: 20
-  - name: Who We Are
-    title: Who We Are
-    url: /about-us
+  - name: People
+    title: People
+    url: /people
     weight: 10
   - name: Contact
     title: Contact

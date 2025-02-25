@@ -1,7 +1,7 @@
 ---
 title: "The Story of a GitHub Actions Workflow"
 date: 2022-11-19
-authors: 
+people: 
 - Max Jonas Werner
 cover:
   image: "/images/story-book.jpg"

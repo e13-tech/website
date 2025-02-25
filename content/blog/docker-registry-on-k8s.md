@@ -1,7 +1,7 @@
 ---
 title: "Running a Docker registry on Kubernetes (in kind)"
 date: "2020-11-06"
-authors: 
+people: 
 - Max Jonas Werner
 cover:
   image: "/images/library.jpg"

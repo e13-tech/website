@@ -2,7 +2,7 @@
 title: "Taking it home — Kubernetes on bare-metal"
 date: "2022-11-09"
 showToc: true
-authors: 
+people: 
 - Max Jonas Werner
 cover:
   image: "/images/bare-metal.jpg"
